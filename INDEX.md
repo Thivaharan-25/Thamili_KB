@@ -1,6 +1,6 @@
 # T Web Knowledge Base
 
-This folder is the React web knowledge base for rebuilding the current Thamili React Native app as a Vite SPA. It is intentionally separate from `docs/PROJECT_DOCUMENTATION.md`.
+This folder is the React web knowledge base for rebuilding the current Thamili React Native app as a Vite SPA. It is intentionally separate from `PROJECT_DOCUMENTATION.md`.
 
 ## Confirmed Project Decisions
 
@@ -120,4 +120,4 @@ These files are extracted mostly from the existing React Native app and translat
 - Mobile navigation: `src/navigation/AppNavigator.tsx`
 - Services: `src/services/*Service.ts`
 - Stores: `src/store/*Store.ts`
-- Existing project documentation: `docs/PROJECT_DOCUMENTATION.md`
+- Existing project documentation: `PROJECT_DOCUMENTATION.md`

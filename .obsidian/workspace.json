@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "screens/onboarding/OnboardingPage.md",
+                "file": "INDEX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OnboardingPage"
+              "title": "INDEX"
             }
           }
         ]
@@ -185,6 +185,8 @@
   },
   "active": "3b1cb05bb3b788a5",
   "lastOpenFiles": [
+    "PROJECT_DOCUMENTATION.md",
+    "screens/onboarding/OnboardingPage.md",
     "frontend/templates/AppLayout.md",
     "build-ready/source-extraction-map.md",
     "frontend/design/responsive.md",
@@ -206,7 +208,6 @@
     "screens/customer/EditProfilePage.md",
     "frontend/components/component-catalog.md",
     "screens/onboarding/WelcomePage.md",
-    "screens/onboarding/OnboardingPage.md",
     "architecture/routing.md",
     "normalize-table-wikilinks.js",
     "fix-table-wikilinks.js",
@@ -214,7 +215,6 @@
     "architecture/nfr-compliance.md",
     "architecture/folder-structure.md",
     "architecture/api-client.md",
-    "frontend/design/typography.md",
     "fix-wikilinks.js"
   ]
 }
